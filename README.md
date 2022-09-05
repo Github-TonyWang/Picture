@@ -1,2 +1,2 @@
-# Picture 库
-### Typora 图床
+# Picture Library
+### Typora图床通过Picsee实现 
