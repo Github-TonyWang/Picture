@@ -1,2 +1,2 @@
 # Picture Library
-### 图床(Typora)通过Picsee实现
+### Typora 用的通过 Picsee 实现的图床
